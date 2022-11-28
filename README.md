@@ -29,4 +29,9 @@
 Para o programa aqui criado como solução ser executado, deve-se primeiramente realizar a configuração do servidor para coleta de dados, bem como do dashboard para visualização. Tal configuração pode ser realizada seguindo as recomendações presentes no repositório [ada_project](https://github.com/mdrs-thiago/ada_project) do professor Thiago Medeiros.<br>
 Então, o programa pode ser executado por meio do arquivo ```main.py```. Enquanto o programa estiver sendo executado, cada vez que o usuario pressiona ```Enter```, é realizada uma requisição de novos dados (simulando uma nova semana), além do dashboard ser atualizado.<br>
 ## Diagrama do programa.
-![diagrama](https://user-images.githubusercontent.com/94374033/204178810-d3797f94-7573-4c72-b412-c47dc57d417c.png)
+![diagrama](https://user-images.githubusercontent.com/94374033/204178810-d3797f94-7573-4c72-b412-c47dc57d417c.png)<br>
+Equipe de criadores da solução:
+- [davirpp](https://github.com/davirpp)
+- [Myrmigato](https://github.com/Myrmigato)
+- [jhaidan42](https://github.com/jhaidan42)
+- [NiloBSilvaJr](https://github.com/NiloBSilvaJr)
